@@ -1,5 +1,0 @@
-C:\Users\scaiq\OneDrive\Desktop\Cursos & Faculdade\DIO\Desafios DIO\NET Developer\Fundamentos\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.csproj.AssemblyReference.cache
-C:\Users\scaiq\OneDrive\Desktop\Cursos & Faculdade\DIO\Desafios DIO\NET Developer\Fundamentos\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\scaiq\OneDrive\Desktop\Cursos & Faculdade\DIO\Desafios DIO\NET Developer\Fundamentos\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfoInputs.cache
-C:\Users\scaiq\OneDrive\Desktop\Cursos & Faculdade\DIO\Desafios DIO\NET Developer\Fundamentos\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.AssemblyInfo.cs
-C:\Users\scaiq\OneDrive\Desktop\Cursos & Faculdade\DIO\Desafios DIO\NET Developer\Fundamentos\DesafioEstacionamento\obj\Debug\net7.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
